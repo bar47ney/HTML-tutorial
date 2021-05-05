@@ -1,0 +1,18 @@
+body{
+    text-align: left;
+    font-family: Calibri;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+code{
+    color: #950000;
+    background-color: #e7e7e7;
+    font-size: 15px;
+}
+
+.tags{
+    color:#2aa0a8;
+    background-color: #dcdcdc;
+}
